@@ -1,7 +1,7 @@
 # ChessPy
 > William and Marco
 
-[toc]
+[TOC]
 
 ## 0. 开发目标
 
