@@ -30,6 +30,7 @@ class mainwindow():
         self.screen.mainloop()
 
 #主类
+#***** 我刚查了下,python3好像默认继承object类,这里还需要加入object吗? *****#
 class chessgame(object):
     #初始化
     def __init__(self):
